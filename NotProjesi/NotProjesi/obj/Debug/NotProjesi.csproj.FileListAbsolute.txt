@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\bin\Debug\NotProjesi.exe.config
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\bin\Debug\NotProjesi.exe
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\bin\Debug\NotProjesi.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.Form1.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.FrmOgrenciNotlar.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.Properties.Resources.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.exe
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.pdb
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.FrmOgretmen.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.FrmKulup.resources
+D:\Projects\Visual Studio\C#\FORM PROJELERİ\NotProjesi\NotProjesi\obj\Debug\NotProjesi.FrmDersler.resources
